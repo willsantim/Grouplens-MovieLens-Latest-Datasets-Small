@@ -1,4 +1,4 @@
-# Grouplens-MovieLens-Latest-Datasets-Small
+# Grouplens-MovieLens-Latest-Datasets-Small 
 
 CEFSA - Centro Educacional da Fundação Salvador Arena
 FESA - Faculdade Engenheiro Salvador Arena
@@ -13,6 +13,8 @@ Este conjunto de dados (ml-latest-small) descreve a classificação de 5 estrela
 Ele contém 100.836 classificações e 3.683 aplicações de marcação em 9.742 filmes. 
 Esses dados foram criados por 610 usuários entre 29 de março de 1996 e 24 de setembro de 2018. Este conjunto de dados foi gerado em 26 de setembro de 2018.
 Os dados estão contidos nos arquivos `links.csv`, `movies.csv`, `ratings.csv` e `tags.csv`. Mais detalhes sobre o conteúdo e o uso de todos esses arquivos a seguir.
+
+Base de dados pode ser encontrada no seguinte link: https://grouplens.org/datasets/movielens/
 
 ### b) Significado de cada linha de arquivo E c) quais são os atributos (colunas) e seus tipos
 
