@@ -1,9 +1,9 @@
 # Grouplens-MovieLens-Latest-Datasets-Small 
 
-CEFSA - Centro Educacional da Fundação Salvador Arena
-FESA - Faculdade Engenheiro Salvador Arena
-William Santim - RA: 082220033 - Engenharia de Computação - EC6
-Eletiva II - Ambientes Inteligentes
+CEFSA - Centro Educacional da Fundação Salvador Arena -
+FESA - Faculdade Engenheiro Salvador Arena -
+William Santim - RA: 082220033 - Engenharia de Computação - EC6 -
+Eletiva II - Ambientes Inteligentes -
 Atividade N1 - 1° Bimestre
 
 ### 1) DESCRIÇÃO DA BASE DE DADOS
