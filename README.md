@@ -152,3 +152,9 @@ O dataset `tags.csv` fornece informações sobre as tags associadas a filmes, po
 | 1   |ID Filme               |100836 non-null  |int64 
 | 2   |Tag                    |100836 non-null  |object64
 | 3   |Data e Hora da Tag     |100836 non-null  |datetime64[ns]
+
+
+
+### 3)Compartilhe o link do seu reporsitório Git com a resolução da sua atividade
+
+https://github.com/willsantim/Grouplens-MovieLens-Latest-Datasets-Small
